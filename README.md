@@ -12,6 +12,10 @@ Supported API (8 - 22) or Froyo (2.2) to Lollipop (5)
 
 *higher versions will not work even if installed*
 
+# Where can I download?
+Latest release and updates can be found in the discord server:
+[Link Text](https://discord.gg/xSJ5e5WvmQ)
+
 # Server
 To set up a proper connection with a Legacy Ops server, open the server menu in lobby, click the address and enter server's ip address. 
 
