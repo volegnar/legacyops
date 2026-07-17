@@ -8,8 +8,7 @@ Players can modify their profile (color and name) only when disconnected.
 
 # Supported Devices
 Legacy Ops is made for only Android.
-Supported API (8 - 22) 
-Froyo (2.2) to Lollipop (5)
+Supported API (8 - 22) or Froyo (2.2) to Lollipop (5)
 
 *higher versions will not work even if installed*
 
