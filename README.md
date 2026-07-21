@@ -1,4 +1,4 @@
-![alt text](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot.png?raw=true)
+![amazing screenshot and s2](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot.png?raw=true)
 
 # About the game
 Legacy Ops is an online multiplayer Top-Down Shooter game with 2D pixel graphics.
@@ -21,3 +21,5 @@ Latest release and updates can be found in the [discord server](https://discord.
 To set up a proper connection with a Legacy Ops server, open the server menu in lobby, click the address and enter server's ip address. 
 
 *Hosting your own server will be available in future. For now only few server ip addresses will be provided in the discord server.*
+
+![server](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot_server.png?raw=true)
