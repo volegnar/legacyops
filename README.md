@@ -1,8 +1,8 @@
 ![amazing screenshot and s2](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot.png?raw=true)
 
 # About the game
-Legacy Ops is an online multiplayer Top-Down Shooter game with 2D graphics. 
-The project's purpose is to revive online multiplayer games on legacy android devices.
+Legacy Ops is an online multiplayer Top-Down Shooter game with 2D graphics.
+The project's purpose is to revive online multiplayer games on legacy Android devices.
 
 **The game features:**
 - an open world in which players shoot each other.
@@ -12,7 +12,7 @@ The project's purpose is to revive online multiplayer games on legacy android de
 - no revive timer and no bullet limit
 - and many more...
 
-*Players can modify their profile (color and name) only when disconnected.*
+*Players can modify their profile (color and name) only when disconnected.* 
 *Player's color is applied to the whole ui and skin.*
 
 # Supported Devices
