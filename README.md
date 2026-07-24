@@ -27,6 +27,6 @@ Latest release and updates can be found in the [discord server](https://discord.
 # Server
 To set up a proper connection with a Legacy Ops server, open the server menu in lobby, click the address and enter server's ip address. 
 
-*Hosting your own server will be available in near future. For now only few server ip addresses will be provided in the discord server.*
+*Hosting your own server is now available! To learn how, join the [discord server](https://discord.gg/xSJ5e5WvmQ).*
 
 ![server](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot_server.png?raw=true)
