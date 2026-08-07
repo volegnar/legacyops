@@ -22,11 +22,18 @@ Supported API (9 - 22) or Gingerbread (2.3) to Lollipop (5)
 *higher versions will not work even if installed*
 
 # Where can I download?
-Latest release and updates can be found in the [discord server](https://discord.gg/xSJ5e5WvmQ)
+All version of Legacy Ops can be found in the [releases](https://github.com/volegnar/legacyops/releases). 
 
 # Server
 To set up a proper connection with a Legacy Ops server, open the server menu in lobby, click the address and enter server's ip address. 
 
-*Hosting your own server is now available! To learn how, join the [discord server](https://discord.gg/xSJ5e5WvmQ).*
-
 ![server](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot_server.png?raw=true)
+
+**Hosting your own server:**
+1. Download the zip in [releases](https://github.com/volegnar/legacyops/releases).
+2. Run the application
+3. Enable port forwarding for public_ip:13060
+4. Get a hoster role in the [discord server](https://discord.gg/xSJ5e5WvmQ). (optional)
+
+# Having questions?
+In case you have questions about the game join the [discord server](https://discord.gg/xSJ5e5WvmQ).
