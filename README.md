@@ -17,7 +17,7 @@ The project's purpose is to revive online multiplayer games on legacy Android de
 
 # Supported Devices
 Legacy Ops is made for only Android.
-Supported API (9 - 22) or Gingerbread (2.3) to Lollipop (5)
+Supported API (9 - 23) or Gingerbread (2.3) to Marshmallow (6)
 
 *higher versions will not work even if installed*
 
