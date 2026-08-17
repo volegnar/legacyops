@@ -1,4 +1,4 @@
-![amazing screenshot and s2](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot.png?raw=true)
+![amazing screenshot and s2](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot_1.1.png?raw=true)
 
 # About the game
 Legacy Ops is an online multiplayer Top-Down Shooter game with 2D graphics.
@@ -35,7 +35,7 @@ To set up a proper connection with a Legacy Ops server, open the server menu in 
 3. Enable port forwarding for public_ip:13060
 4. Get a hoster role in the [discord server](https://discord.gg/xSJ5e5WvmQ). (optional)
 
-![server](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot_server.png?raw=true)
+![server](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot_server_1.1.png?raw=true)
 
 # Having questions?
 In case you have questions about the game join the [discord server](https://discord.gg/xSJ5e5WvmQ).
