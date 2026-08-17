@@ -1,4 +1,4 @@
-![amazing screenshot and s2](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot_1.1.png?raw=true)
+![Screenshot](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot_1.1.jpg?raw=true)
 
 # About the game
 Legacy Ops is an online multiplayer Top-Down Shooter game with 2D graphics.
