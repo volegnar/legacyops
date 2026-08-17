@@ -1,4 +1,4 @@
-![gif](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot_1.1.gif?raw=true)
+![gif](https://github.com/volegnar/legacyops/blob/main/screenshots/trailer_1.1.gif?raw=true)
 ![Screenshot](https://github.com/volegnar/legacyops/blob/main/screenshots/screenshot_1.1.jpg?raw=true)
 
 # About the game
